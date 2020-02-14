@@ -9,6 +9,14 @@ this session, I'll talk about what it is, why we love it, and how you can take
 some simple steps to build a simple data pipeline and start democratizing your
 data.
 
+## Talk Format
+
+45-minutes talk (including Q&A)
+
+## Audience Level
+
+Beginner
+
 ## Biography
 
 Kan is an enthusiastic engineer who not only has a scientific mindset, but also
@@ -20,5 +28,4 @@ open-source projects.
 
 ## References
 
-* [PyCon Thailand 2019](https://2019.th.pycon.org/talks/#sat-2-10:20)
 * [YouTube](https://www.youtube.com/watch?v=Li5zatNMe5g)
