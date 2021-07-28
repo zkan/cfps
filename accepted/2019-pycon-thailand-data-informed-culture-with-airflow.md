@@ -28,4 +28,4 @@ open-source projects.
 
 ## References
 
-* [YouTube](https://www.youtube.com/watch?v=Li5zatNMe5g)
+* [How We Start Building a Data-Informed Culture with Airflow (Replacement) - Kan Ouivirach](https://www.youtube.com/watch?v=Li5zatNMe5g)
