@@ -11,7 +11,7 @@ data.
 
 ## Talk Format
 
-45-minutes talk (including Q&A)
+45-minute talk (including Q&A)
 
 ## Audience Level
 

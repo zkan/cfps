@@ -6,7 +6,7 @@ TBD
 
 ## Talk Format
 
-45-minutes talk (including Q&A)
+30-minute talk (including Q&A)
 
 ## Audience Level
 
