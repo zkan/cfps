@@ -7,16 +7,18 @@ However, there is always room for everyone. This talk discusses my journey
 from Airflow newbie to an Airflow contributor. More importantly, I explain
 how you can also start your journey in this amazing and friendly community.
 
-## Abstract
+## Description
 
-Airflow is an open-source platform to programmatically author, schedule, and monitor workflows.
-It has large and vibrant community in which over 1,600 contributors regularly submit features,
-code patches, and bug fixes to ensure continuous improvement.
+Airflow is an open-source platform to programmatically author, schedule,
+and monitor workflows. It has large and vibrant community in which over
+1,600 contributors regularly submit features, code patches, and bug fixes
+to ensure continuous improvement.
 
-With a large number of contributors and more than 20k GitHub stars, contributing to Airflow
-can be scary for lots of people. However, there is always room for everyone. This talk
-discusses my journey from Airflow newbie to an Airflow contributor. More importantly,
-I explain how you can also start your journey in this amazing and friendly community.
+With a large number of contributors and more than 20k GitHub stars,
+contributing to Airflow can be scary for lots of people. However, there
+is always room for everyone. This talk discusses my journey from Airflow
+newbie to an Airflow contributor. More importantly, I explain how you can
+also start your journey in this amazing and friendly community.
 
 ## Talk Format
 
