@@ -1,5 +1,12 @@
 # My Journey to Become an Airflow Contributor
 
+## Elevator Pitch
+
+With a large number of contributors, contributing to Airflow can be scary.
+However, there is always room for everyone. This talk discusses my journey
+from Airflow newbie to an Airflow contributor. More importantly, I explain
+how you can also start your journey in this amazing and friendly community.
+
 ## Abstract
 
 Airflow is an open-source platform to programmatically author, schedule, and monitor workflows.
