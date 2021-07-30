@@ -1,16 +1,20 @@
-# TBD
+# My Journey to (Try to) Become an Airflow Contributor
 
-## Abstract
+## Elevator Pitch
+
+TBD
+
+## Description
 
 TBD
 
 ## Talk Format
 
-30-minute talk (including Q&A)
+30-45 minutes (including Q&A)
 
 ## Audience Level
 
-TBD
+Beginner
 
 ## Biography
 
