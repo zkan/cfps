@@ -36,3 +36,7 @@ engineering, data engineering, and data science. More importantly, he loves
 Python and uses it every single day at work. When there's any time left to burn
 Kan likes to improve his skills by taking some courses or contributing to some
 open-source projects.
+
+## References
+
+* [Slides](https://docs.google.com/presentation/d/1eSSiIItAImVIBOkQV0CuwQ7G7pkGDs_DESg8yEnZeVM/edit?usp=sharing)

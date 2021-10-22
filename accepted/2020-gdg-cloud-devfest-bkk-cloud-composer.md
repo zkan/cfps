@@ -28,3 +28,7 @@ management platform
 ## Level
 
 Beginner & Intermediate
+
+## References
+
+* [Slides](https://docs.google.com/presentation/d/1XPYZhlpD_wBxFnbfofltnnelBrB-uOPnLVBKa4lomZ0/edit?usp=sharing)
