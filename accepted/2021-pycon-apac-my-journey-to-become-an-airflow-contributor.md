@@ -39,4 +39,5 @@ open-source projects.
 
 ## References
 
+* [Kan Ouivirach (He/Him) - My Journey to Become an Airflow Contributor](https://www.youtube.com/watch?v=X9GWplnIBM0)
 * [Slides](https://docs.google.com/presentation/d/1eSSiIItAImVIBOkQV0CuwQ7G7pkGDs_DESg8yEnZeVM/edit?usp=sharing)
