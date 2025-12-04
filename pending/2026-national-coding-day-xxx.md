@@ -2,7 +2,7 @@
 
 ## Session Category
 
-AI Shaping the Future / Timeless Wisdom Lasting Forever
+Timeless Wisdom Lasting Forever
 
 ## Session Type
 
