@@ -6,6 +6,7 @@ My accepted and rejected conference talk proposals from various conferences
 
 * [How Ruby on Rails Helped Me Understand Software
 Engineering](./accepted/2026-national-coding-day-how-ruby-on-rails-helped-me-understand-software-engineering.md)
+for National Coding Day 2026
 * [Getting Started Contributing to Apache Airflow: Quickstart Onboarding
 Workshop](./accepted/2026-fossasia-summit-getting-started-contributing-to-apache-airflow.md)
 for FOSSASIA Summit 2026
